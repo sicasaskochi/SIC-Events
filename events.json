@@ -4,7 +4,7 @@
       "title": "Beat the clock",
       "date": "25-07-2024",
       "time": "10:00 AM",
-      "image": "https://raw.githubusercontent.com/your-username/your-repo/main/assets/images/events/event1.jpg",
+      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
       "registerLink": "https://docs.google.com/forms/d/e/1FAIpQLScMO24UumuCv4pY0FrJkMlMOF5rv4PIOW8jbKz-rr5QvmfMUg/viewform?usp=sf_link",
       "status": "upcoming"
     },
@@ -12,19 +12,27 @@
       "title": "Code Conquest",
       "date": "Coming Soon",
       "time": "coming soon",
-      "image": "https://raw.githubusercontent.com/your-username/your-repo/main/assets/images/events/event2.jpg",
+      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
+      "registerLink": "#",
+      "status": "upcoming"
+    },
+    {
+      "title": "Keep an eye out",
+      "date": "--",
+      "time": "--",
+      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
       "registerLink": "#",
       "status": "upcoming"
     }
   ],
   "liveEvents": [
     {
-        "title": "Live Coding Session",
-        "date": "28-09-2025",
-        "time": "04:00 PM",
-        "image": "https://raw.githubusercontent.com/your-username/your-repo/main/assets/images/events/live-event.jpg",
-        "registerLink": "#",
-        "status": "live"
+      "title": "Live Coding Session",
+      "date": "28-09-2025",
+      "time": "04:00 PM",
+      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
+      "registerLink": "#",
+      "status": "live"
     }
   ]
 }
