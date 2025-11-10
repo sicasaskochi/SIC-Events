@@ -1,161 +1,25 @@
 {
   "upcomingEvents": [
     {
-      "title": "Tech Odyssey",
-      "date": "12-11-2025",
+      "title": "Beat the clock",
+      "date": "25-07-2024",
       "time": "10:00 AM",
       "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
+      "registerLink": "https://docs.google.com/forms/d/e/1FAIpQLScMO24UumuCv4pY0FrJkMlMOF5rv4PIOW8jbKz-rr5QvmfMUg/viewform?usp=sf_link",
       "status": "upcoming"
     },
     {
-      "title": "InnovateX",
-      "date": "20-11-2025",
-      "time": "11:00 AM",
+      "title": "Code Conquest",
+      "date": "Coming Soon",
+      "time": "coming soon",
       "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
       "registerLink": "#",
       "status": "upcoming"
     },
     {
-      "title": "Hackathon Horizon",
-      "date": "25-11-2025",
-      "time": "09:30 AM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "upcoming"
-    },
-    {
-      "title": "AI & Beyond",
-      "date": "28-11-2025",
-      "time": "02:00 PM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "upcoming"
-    },
-    {
-      "title": "Cyber Frontier",
-      "date": "30-11-2025",
-      "time": "03:00 PM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "upcoming"
-    },
-    {
-      "title": "Design Sprint 2025",
-      "date": "05-12-2025",
-      "time": "11:00 AM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "upcoming"
-    },
-    {
-      "title": "Build the Future",
-      "date": "10-12-2025",
-      "time": "01:00 PM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "upcoming"
-    },
-    {
-      "title": "NextGen Coders",
-      "date": "15-12-2025",
-      "time": "09:00 AM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "upcoming"
-    },
-    {
-      "title": "Startup Sparks",
-      "date": "20-12-2025",
-      "time": "03:30 PM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "upcoming"
-    },
-    {
-      "title": "Green Tech Week",
-      "date": "05-01-2026",
-      "time": "10:30 AM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "upcoming"
-    },
-    {
-      "title": "Robotics Revolution",
-      "date": "12-01-2026",
-      "time": "01:00 PM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "upcoming"
-    },
-    {
-      "title": "Digital Dreams",
-      "date": "18-01-2026",
-      "time": "11:30 AM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "upcoming"
-    },
-    {
-      "title": "Quantum Quest",
-      "date": "25-01-2026",
-      "time": "09:45 AM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "upcoming"
-    },
-    {
-      "title": "Code Catalyst",
-      "date": "30-01-2026",
-      "time": "04:00 PM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "upcoming"
-    },
-    {
-      "title": "Game Dev Fest",
-      "date": "05-02-2026",
-      "time": "10:00 AM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "upcoming"
-    },
-    {
-      "title": "AI Challenge 2026",
-      "date": "12-02-2026",
-      "time": "02:15 PM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "upcoming"
-    },
-    {
-      "title": "Tech Talks Live",
-      "date": "20-02-2026",
-      "time": "03:00 PM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "upcoming"
-    },
-    {
-      "title": "Code Clash",
-      "date": "25-02-2026",
-      "time": "11:00 AM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "upcoming"
-    },
-    {
-      "title": "Hack & Win",
-      "date": "28-02-2026",
-      "time": "09:30 AM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "upcoming"
-    },
-    {
-      "title": "SIC Fest 2026",
-      "date": "10-03-2026",
-      "time": "10:00 AM",
+      "title": "Keep an eye out",
+      "date": "--",
+      "time": "--",
       "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
       "registerLink": "#",
       "status": "upcoming"
@@ -163,81 +27,9 @@
   ],
   "liveEvents": [
     {
-      "title": "Code Rush Live",
-      "date": "05-11-2025",
-      "time": "05:00 PM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "live"
-    },
-    {
-      "title": "Innovation Hour",
-      "date": "06-11-2025",
-      "time": "06:30 PM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "live"
-    },
-    {
-      "title": "Debugging Marathon",
-      "date": "07-11-2025",
-      "time": "02:00 PM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "live"
-    },
-    {
-      "title": "Web Warriors Live",
-      "date": "08-11-2025",
-      "time": "04:15 PM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "live"
-    },
-    {
-      "title": "Appathon Stream",
-      "date": "09-11-2025",
-      "time": "03:00 PM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "live"
-    },
-    {
-      "title": "Code Connect Live",
-      "date": "10-11-2025",
-      "time": "07:00 PM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "live"
-    },
-    {
-      "title": "AI Hack Stream",
-      "date": "11-11-2025",
-      "time": "06:00 PM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "live"
-    },
-    {
-      "title": "Finale Stream",
-      "date": "12-11-2025",
-      "time": "08:00 PM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "live"
-    },
-    {
-      "title": "SIC Talks Live",
-      "date": "13-11-2025",
-      "time": "09:00 AM",
-      "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
-      "registerLink": "#",
-      "status": "live"
-    },
-    {
-      "title": "Code Combat Stream",
-      "date": "14-11-2025",
-      "time": "02:30 PM",
+      "title": "Live Coding Session",
+      "date": "28-09-2025",
+      "time": "04:00 PM",
       "image": "https://raw.githubusercontent.com/sicasaskochi/SIC-Events/main/assets/comingsoon.gif",
       "registerLink": "#",
       "status": "live"
